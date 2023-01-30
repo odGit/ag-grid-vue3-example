@@ -1,6 +1,6 @@
-import '../node_modules/@ag-grid-community/styles/ag-grid.css';
-import '../node_modules/@ag-grid-community/styles/ag-theme-alpine.css';
-import '../node_modules/bootstrap/dist/css/bootstrap.css';
+import '@ag-grid-community/styles/ag-grid.css';
+import '@ag-grid-community/styles/ag-theme-alpine.css';
+import 'bootstrap/dist/css/bootstrap.css';
 
 import '@ag-grid-community/client-side-row-model';
 import '@ag-grid-community/infinite-row-model';
